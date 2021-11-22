@@ -1,0 +1,209 @@
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.StaticWebAssets.xml
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.exe
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.deps.json
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.runtimeconfig.json
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.runtimeconfig.dev.json
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.pdb
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.Views.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.Views.pdb
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.AssemblyInfo.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication111.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication111.StaticWebAssets.xml
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication111.styles.css
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.TagHelpers.input.cache
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.TagHelpers.output.cache
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.RazorCoreGenerate.cache
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.Views.pdb
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.csproj.CopyComplete
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.dll
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.pdb
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.genruntimeconfig.cache
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\Buy.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Categories-blok.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Container-blok.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Offer-blok.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Products-blok.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Rating-blok.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Testimonials-blok.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\User\Desktop\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.StaticWebAssets.xml
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.exe
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.deps.json
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.runtimeconfig.json
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.runtimeconfig.dev.json
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.pdb
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.Views.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\WebApplication111.Views.pdb
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.AssemblyInfo.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication111.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication111.StaticWebAssets.xml
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication111.styles.css
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.TagHelpers.input.cache
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.TagHelpers.output.cache
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.RazorCoreGenerate.cache
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\Buy.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Categories-blok.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Container-blok.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Offer-blok.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Products-blok.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Rating-blok.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Testimonials-blok.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.Views.pdb
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.dll
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.pdb
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.genruntimeconfig.cache
+C:\Users\User\Desktop\murathian\C#\MOBILE STORE E_COMERCE HTML CSS SCSS JS C#\WebApplication111\WebApplication111\obj\Debug\netcoreapp3.1\WebApplication111.csproj.CopyComplete

@@ -1,0 +1,22 @@
+﻿* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import '_Buy.scss';
+@import '_Header.scss';
+@import '_Footer.scss';
+@import '_Media.scss';
+@import '_Categories.scss';
+@import '_Container.scss';
+@import '_Offer.scss';
+@import '_Small-container.scss';
+@import '_Testimonial.scss';
+@import '_Rating-blok.scss';

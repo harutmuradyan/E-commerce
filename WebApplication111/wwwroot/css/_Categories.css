@@ -1,0 +1,21 @@
+﻿.categories {
+  margin: 70px 0; }
+  .categories .small-container {
+    max-width: 1080px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px; }
+    .categories .small-container .row {
+      margin-top: 70px;
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      justify-content: center; }
+      .categories .small-container .row .col-3 {
+        flex-basis: 30%;
+        min-width: 150px;
+        margin-bottom: 30px;
+        padding-left: 5px;
+        padding-right: 5px; }
+        .categories .small-container .row .col-3 img {
+          width: 100%; }

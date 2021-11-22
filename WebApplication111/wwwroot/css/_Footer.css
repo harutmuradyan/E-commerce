@@ -1,0 +1,52 @@
+﻿.footer {
+  background: #000;
+  color: #8a8a8a;
+  font-size: 14px;
+  padding: 60px 0 20px; }
+  .footer .container {
+    max-width: 1300px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin: auto;
+    background: #000; }
+    .footer .container hr {
+      background: #b5b5b5;
+      border: none;
+      height: 1px;
+      margin: 20px 0; }
+    .footer .container .Copyright {
+      text-align: center; }
+    .footer .container .row {
+      margin-top: 20px;
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      justify-content: center; }
+      .footer .container .row p {
+        color: #8a8a8a; }
+      .footer .container .row h3 {
+        color: #fff;
+        margin-bottom: 20px; }
+      .footer .container .row a {
+        text-decoration: none;
+        color: #8a8a8a; }
+      .footer .container .row .footer-col-1, .footer .container .row .footer.col-2, .footer .container .row .footer-col-3, .footer .container .row .footer-col-4 {
+        min-width: 250px;
+        margin-bottom: 20px; }
+      .footer .container .row .footer-col-1 {
+        flex-basis: 30%; }
+        .footer .container .row .footer-col-1 img {
+          width: 140px;
+          height: 60px; }
+      .footer .container .row .footer-col-2 {
+        flex: 1;
+        text-align: center; }
+        .footer .container .row .footer-col-2 img {
+          width: 100px;
+          height: 80px;
+          margin-bottom: 20px; }
+      .footer .container .row .footer-col-3, .footer .container .row .footer-col-4 {
+        flex-basis: 12%;
+        text-align: center; }
+        .footer .container .row .footer-col-3 ul, .footer .container .row .footer-col-4 ul {
+          list-style-type: none; }

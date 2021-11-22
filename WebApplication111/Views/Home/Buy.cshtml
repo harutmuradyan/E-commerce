@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Buy Page";
+}
+
+<partial name="_Header">
+    <div class="buy-block">
+        <form method="post">
+            <h3>Форма оформления покупки</h3>
+            <p>Для оформления покупки заполните следующие поля:</p>
+            <input type="hidden" value="@ViewBag.PhoneId" name="PhoneId" />
+            <table>
+                <tr>
+                    <td>Имя:</td>
+                    <td><input type="text" name="User" required/> </td>
+                </tr>
+                <tr>
+                    <td>Адрес:</td>
+                    <td><input type="text" name="Address" required/></td>
+                </tr>
+                <tr>
+                    <td>Телефон:</td>
+                    <td><input type="text" name="ContactPhone" required/></td>
+                </tr>
+                <tr><td><input type="submit" value="Отправить"/> </td><td></td></tr>
+            </table>
+        </form>
+    </div>
+    <partial name="_Footer">

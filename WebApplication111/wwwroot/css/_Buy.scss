@@ -1,0 +1,33 @@
+﻿.buy-block {
+    max-width: 1400px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+
+    form {
+        h3 {
+            width: 100%;
+            text-align: center;
+            padding: 5px 0px 5px 0px;
+        }
+
+        p {
+            padding: 5px 0px 5px 0px;
+            display: block;
+            width: 100%;
+            text-align: center;
+        }
+        input {
+            width:150px;
+        }
+        #submit-order {
+            margin:10px 0px 10px 0px;
+            padding: 5px 10px 5px 10px;
+            color: white;
+            background-color: red;
+        }
+    }
+}
